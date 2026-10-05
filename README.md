@@ -31,4 +31,3 @@ Game patches:
 - Compiled release (.exe) runs without AutoIt.
 - To build from source: AutoIt 3.3.18.0 or later from https://www.autoitscript.com/site/autoit/downloads/
 
-Place games in the Games folder (or set a custom path). Data is stored in XeniaGuy/.
